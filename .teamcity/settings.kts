@@ -38,7 +38,7 @@ object Configuration : BuildType({
 
 object Template_1 : Template({
     id("Template")
-    name = "Template"
+    name = "Template1"
 
     steps {
         step {
